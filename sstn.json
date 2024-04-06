@@ -1,0 +1,15 @@
+{
+    "name": "Sustain",
+    "description": "NFT for sustainable cause",
+    "image": "https://media.istockphoto.com/id/1456338356/vector/esg-sustainability-concept-illustration.jpg?s=612x612&w=0&k=20&c=9JaYSdMeeIESL98DRFARag_SrRF-uM0BE1RwO8mzhKg=",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
